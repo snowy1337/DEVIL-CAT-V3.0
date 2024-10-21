@@ -18,7 +18,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = '𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3' //ur bot name
-global.ownernumber = ['2348133286181'] //ur owner number, dont add more than one
+global.ownernumber = ['4915117833727'] //ur owner number, dont add more than one
 global.ownername = '𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
 global.wagc = "https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t"
@@ -29,7 +29,7 @@ global.packname = "Sticker By"
 global.author = "𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3\n\n+2348133286181"
 global.creator = "2348133286181@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348133286181"] // Premium User
+global.premium = ["4915117833727"] // Premium User
 
 //channel id
 global.xchannel = {
